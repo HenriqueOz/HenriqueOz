@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div align = "center">
+  <a href = "pedrooozorio30@gmail.com">
+</div>
+
 <!--
 **Peguinm/Peguinm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
