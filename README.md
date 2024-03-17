@@ -1,9 +1,18 @@
-### Hi there 👋
+### Hey!
 
-<div align = "center">
-  <a href = "pedrooozorio30@gmail.com">
-</div>
+<p>
+I'm Pedro, and I'm an Information System student at FHO (a university in Brazil).
+</p>
+<p>
+I'm interested in programming and design. In my free time, I often draw something or work on my projects, like making games and such stuff.
+I love working with problems and creativity. 
+</p>
 
+<p align="center">
+  <a href="">
+    
+  </a>
+</p>
 <!--
 **Peguinm/Peguinm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
