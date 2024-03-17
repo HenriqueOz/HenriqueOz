@@ -14,7 +14,7 @@ I love working with problems and creativity. 
 
 <p align = "center">
 <b>Contact</b><br><br>
-  <a href = "www.linkedin/in/pedrobarbosa30" target = "_blank"><img src = "">a</a>
+  <a href = "https://www.linkedin.com/in/pedrobarbosa30" target = "_blank"><img src = "">a</a>
   <a href = ""><img src = ""></a>
   <a href = ""><img src = ""></a>
 </p>
