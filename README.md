@@ -8,7 +8,7 @@ I love working with problems and creativity. 
 
 # Technologies
 <a href="">
-  <img src = "https://skillicons.dev/icons?i=js,html,css,bootstrap,mysql,php,java,gamemakerstudio,cpp,aseprite">
+  <img src = "https://skillicons.dev/icons?i=js,html,css,bootstrap,mysql,php,java,gamemakerstudio,cpp">
 </a>
 
 # Contact
