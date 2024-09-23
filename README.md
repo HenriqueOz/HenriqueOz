@@ -1,20 +1,19 @@
-# Hey!
+## Hey!
 
 <p>
-I'm Pedro, and I'm an Information System student at FHO (a university in Brazil).<br><br>
-I'm interested in programming and design. In my free time, I often draw something or work on my projects, like making games and such stuff.
-I love working with problems and creativity. 
+I'm Pedro, and I'm an Information System student at FHO in Brazil.<br>
 </p>
 
-# Technologies
+## Technologies
 <a href="">
   <img src = "https://skillicons.dev/icons?i=js,html,css,bootstrap,mysql,php,java,gamemakerstudio,cpp">
 </a>
 
-# Contact
+## Contact
   <a href = "https://www.linkedin.com/in/pedrobarbosa03" target = "_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href = "https://peguinm.itch.io/" target = "_blank"><img src = "https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
   <a href = "mailto:pedroozorio30@gmail.com" target = "_blank"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href = "" target = "_blank"><img src = "https://img.shields.io/badge/Beecrowd-800080?style=flat-square"></a>
   <!--<a href = "https://www.instagram.com/peguinm/" target = "_blank"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>-->
 <details>
   <summary>Github stats</summary>
