@@ -6,7 +6,7 @@ I'm Pedro, and I'm an Information System student at FHO in Brazil.<br>
 
 ## Technologies
 <a href="">
-  <img src = "https://skillicons.dev/icons?i=js,html,css,bootstrap,mysql,php,java,gamemakerstudio,cpp">
+  <img src = "https://skillicons.dev/icons?i=js,html,css,mysql,gamemakerstudio,cpp,dart,flutter">
 </a>
 
 ## Contact
@@ -14,7 +14,7 @@ I'm Pedro, and I'm an Information System student at FHO in Brazil.<br>
   <a href = "https://peguinm.itch.io/" target = "_blank"><img src = "https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
   <a href = "mailto:pedroozorio30@gmail.com" target = "_blank"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href = "https://judge.beecrowd.com/pt/profile/974026" target = "_blank"><img src = "https://img.shields.io/badge/Beecrowd-800080?style=flat-square"></a>
-  <!--<a href = "https://www.instagram.com/peguinm/" target = "_blank"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>-->
+
 <details>
   <summary>Github stats</summary>
   
