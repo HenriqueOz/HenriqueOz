@@ -1,14 +1,12 @@
-# HenriqueOz | Pedro Henrique B. C. Ozório
-
 ## Welcome
 
-Hi, I'm Pedro and I work as a Software Developer. Here you will find more about my tech stack and some of my projects.
+Hi, I'm Pedro and I work as a Software Developer. 
+I'm passionate about undertand how the things work behind the scenes.
+Here you will find more about my tech stack and some of my projects. 
 
----
+## Tech Stack
 
-## 🛠 Tech Stack
-
-### 🚀 Core Technologies
+### Core Technologies
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -34,15 +32,11 @@ Hi, I'm Pedro and I work as a Software Developer. Here you will find more about 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 
----
-
 ## Contact
 <a href="https://www.linkedin.com/in/ozoriopedro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://henriqueoz.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
 <a href="mailto:pedro.ozorio.contato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://judge.beecrowd.com/pt/profile/974026" target="_blank"><img src="https://img.shields.io/badge/Beecrowd-800080?style=for-the-badge&logo=beecrowd&logoColor=white"></a>
-
----
 
 ## GitHub Stats
 <details>
