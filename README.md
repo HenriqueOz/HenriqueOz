@@ -5,6 +5,9 @@ Here, you'll find more about my tech stack and some of my projects.
 
 ## Tech Stack
 
+<details>
+  <summary>Expand to view my teck stack</summary>
+
 ### 🛠 Core Technologies  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
