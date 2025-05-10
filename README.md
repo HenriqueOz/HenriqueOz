@@ -1,6 +1,6 @@
 ## Welcome
 
-Hi, I'm Pedro, a **Software Development Intern** passionate about learning how things work behind the scenes.  
+Hi, I'm Pedro, a **Software Development** passionate about learning how things work behind the scenes.  
 Here, you'll find more details about my tech stack and some of my projects.  
 
 Currently, I'm an Intern gaining experience in **mobile development**, working with **Dart** and the **Flutter** framework.
