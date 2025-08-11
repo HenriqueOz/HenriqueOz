@@ -1,6 +1,7 @@
 ## Welcome
 
 Hi, I'm Pedro, a **Software Developmer** passionate about learning how things work behind the scenes and explore new arounds in the programming/technology world.
+
 I like to study and practice game devolpment in my free time, and there are some ideas, about games, that I want to get off the paper.
 
 ## Tech Stack
