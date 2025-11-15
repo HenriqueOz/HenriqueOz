@@ -1,6 +1,12 @@
 # What's up?
 
-Hi, I'm Pedro, a **Software Developmer** passionate about learning how things work behind the scenes and explore new arounds in the programming/technology world.<br><br>In my free time I like to study game development,read technical and normal books and draw.
+I’m Pedro, an Information Systems undergraduate. I work as a full-stack web developer, using PHP with Laravel for APIs and TypeScript/JavaScript with Vue.js on the front end.
+
+I enjoy designing and discussing solutions with the team, bringing ideas, aligning perspectives, and aiming to deliver scalable and well-structured products.
+
+I’m highly motivated by new challenges, problem-solving, and learning new technologies, always pushing myself beyond the comfort zone.
+
+In my free time I enjoy to study game development
 
 ### Tech Stack
 
